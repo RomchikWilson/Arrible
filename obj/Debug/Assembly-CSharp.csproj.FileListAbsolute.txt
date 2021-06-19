@@ -1,0 +1,2 @@
+E:\Projects\Unity\Test Arrible\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Projects\Unity\Test Arrible\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
